@@ -5,6 +5,7 @@ import (
 	"log"
 )
 
+// zbjx pwal jkcu vzia
 func main() {
 	app := pocketbase.New()
 
